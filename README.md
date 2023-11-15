@@ -17,8 +17,11 @@ La idea es aplicar un loop diferente para cada funcionalidad. De hecho te voy a 
 4. Y el último botón va a usar una función para verificar si existe algún aplazo, y para eso va a utilizar un loop Do While para recorrer el array, preguntando en cada iteración si la calificación es menor a 4. Si es así, guarda un registro de que existe un aplazo y corta el ciclo con un break, ya que no nos interesa seguir recorriéndolo.
 
 ### Pantallas de la web
+
 Sin resultados
+
 ![notas01](https://github.com/Alejandro-Az/JavaScript-Total-Dia-6/assets/105530752/4aa45064-9b94-40d2-b926-0b32723e3b2a)
 
 Con resultados
+
 ![notas02](https://github.com/Alejandro-Az/JavaScript-Total-Dia-6/assets/105530752/6321f0dd-4112-4dba-a4cb-a640db0253da)
